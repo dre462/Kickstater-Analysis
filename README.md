@@ -19,3 +19,5 @@ Limitations:
 * A limitation about this dataset is the presence of outliers.
 
 Additional charts that could be created include Bar Charts, Histogram and Box/Whisker chart to check for outliers.
+
+All the charts i used for my analysis has been added to this github repository
